@@ -1,0 +1,1 @@
+"Build me a professional website for [Company Name], a [type of business] based in [City]. Their phone is [#], email is [email]. Brand colors are [colors]. They offer: [service 1 with details], [service 2 with details]... Their tagline is [tagline]. They've been in business [X] years and serve [industries]. Here are their logos: [attach files]."
