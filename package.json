@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "build": "mkdir -p dist && cp index.html style.css script.js logo.png logo2.png dist/"
+  }
+}
